@@ -12,21 +12,21 @@ Dari Template yang telah disediakan, disini ditambahkan attribute baru yaitu pro
 1. Initial View
     - ![alt text](/screenshots/init.png)
 2. Add
-    - Success
+    - Success<br>
     ![alt text](/screenshots/add_success.png)
-    - Failed
+    - Failed<br>
     ![alt text](/screenshots/alert_add.png)
 3. Delete
-    - Select Data
+    - Select Data<br>
     ![alt text](/screenshots/update.png)
-    - Confirmation
+    - Confirmation<br>
     ![alt text](/screenshots/delete_confirmation.png)
-    - Success
+    - Success<br>
     ![alt text](/screenshots/deleted.png)
 4. Update
-    - Select Data
+    - Select Data<br>
     ![alt text](/screenshots/update.png)
-    - Success
+    - Success<br>
     ![alt text](/screenshots/update_success.png)
-    - Failed
+    - Failed<br>
     ![alt text](/screenshots/alert_update.png)
